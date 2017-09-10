@@ -1,0 +1,11 @@
+{
+  "name": "picSpider3.0",
+  "dependencies": {
+    "superagent": "3.6.0",
+    "cheerio": "0.22.0",
+    "async": "2.5.0",
+    "request": "2.81.0",
+    "mkdirp": "0.5.1",
+    "express": "4.15.4"
+  }
+}
